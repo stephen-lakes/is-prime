@@ -12,3 +12,6 @@ def is_prime(n:int) -> bool:
                 return False
         else:
             return True
+
+
+print(is_prime(23))
